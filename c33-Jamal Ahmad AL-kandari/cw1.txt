@@ -1,0 +1,17 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        System.out.println("Hello World");
+        
+        String j = "Jamal";
+        String k = " Al-kandari";
+        
+        int r = 15 ;
+        int v = 39 ;
+        
+        System.out.println("r + v = "+ (r+v));
+        System.out.println("r * v ="+ (r*v));
+        System.out.println("r >= v ="+ (r>=v));
+        System.out.println(j+ k);
+     }
+}
